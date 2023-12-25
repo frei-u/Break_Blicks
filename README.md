@@ -8,7 +8,7 @@ Siv3dで実装したブロック崩しゲームのMain関数部分のみを置�
 
 各難易度では、パドルの長さとボールのスピードを変更した。
 ### 初級
-<img src="(https://github.com/frei-u/Break_Blocks/assets/85539041/0c27616d-081f-48c3-9874-1554255ab00f)" width="480">
+<img src="https://github.com/frei-u/Break_Blocks/assets/85539041/0c27616d-081f-48c3-9874-1554255ab00f" width="480">
 
 ### 中級
 ![image](https://github.com/frei-u/Break_Blocks/assets/85539041/af359f5d-2c13-43fd-ac11-6df8a5d8b225)
